@@ -5,4 +5,7 @@ This is a python notebook which can be run on google colab. First you have to lo
 
 The paths then must be adjusted throughout the code to folders inside your Google Drive as per the comments
 
+The data augmentation functionality is missing as of yet
+
+
 Michael Lobjoit
